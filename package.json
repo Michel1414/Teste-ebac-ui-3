@@ -1,0 +1,23 @@
+{
+  "name": "teste-ebac-ui-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michel1414/Teste-ebac-ui-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michel1414/Teste-ebac-ui-3/issues"
+  },
+  "homepage": "https://github.com/Michel1414/Teste-ebac-ui-3#readme",
+  "devDependencies": {
+    "cypress": "^11.0.1"
+  }
+}
